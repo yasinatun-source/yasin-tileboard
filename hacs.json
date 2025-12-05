@@ -1,0 +1,8 @@
+{
+  "name": "Yasin TileBoard",
+  "content_in_root": false,
+  "filename": "tileboard/index.html",
+  "render_readme": true,
+  "domains": ["frontend"],
+  "country": "global"
+}
