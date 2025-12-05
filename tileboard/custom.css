@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #0f1724;
+    color: #e6eef8;
+}
+#app { padding: 16px; }
+.tile {
+    background: #0b1220;
+    border-radius: 8px;
+    padding: 18px;
+    margin: 8px;
+    display: inline-block;
+    width: 260px;
+    box-shadow: 0 8px 24px rgba(2,6,23,0.6);
+}
+.tile h2 { margin: 0 0 8px 0; font-size: 18px; }
+.tile .state { font-size: 24px; margin-bottom: 12px; }
+.btn { display:inline-block; padding:10px 14px; border-radius:6px; margin-right:8px; cursor:pointer; background:#1f6feb; color:white; text-decoration:none; }
+.btn.warn { background:#e04f5f; }
